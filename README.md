@@ -16,7 +16,7 @@ Installation
 
 1. Clone the repository: `git clone https://github.com/oladayotech/Quote_Generator
 2. Navigate to the project directory: cd Quote-Generator.py
-3. Run the program: python https://colab.research.google.com/drive/19UGX1HdN4JTA8TfJQqfRE5sL5H-UOfch#scrollTo=KvWCTDsBG9MK&line=80&uniqifier=1
+3. Run the program: python https://colab.research.google.com/drive/19UGX1HdN4JTA8TfJQqfRE5sL5H-UOfch?usp=sharing
 
 Usage
 
